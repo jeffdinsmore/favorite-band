@@ -1,0 +1,47 @@
+.sidebar {
+ width: 300px;
+ float: left;
+ background-color: burlywood;
+ text-align: center;
+}
+
+.AIC {
+ width: 600px;
+ float: right;
+ padding: 10px;
+}
+
+.cover {
+ width: 400px;
+ float: left;
+ padding: 10px;
+}
+
+.live {
+ width: 400px;
+ float: left;
+ Padding: 10px;
+}
+
+.dirt {
+ font-style: italic;
+ text-decoration: brown;
+}
+
+h2 {
+ color: royalblue;
+ clear: both;
+}
+
+p{
+ font-size:18px;
+ padding: 10px;
+}
+
+body {
+ margin: 10px 20px 10px 20px;
+}
+
+.first {
+ padding-left: 10px;
+}
